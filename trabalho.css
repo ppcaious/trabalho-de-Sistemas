@@ -1,0 +1,17 @@
+.cabecalho {
+    background-color: orange;
+}
+
+table {
+    border: solid black 1px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+td, th {
+    border: solid black 1px;
+}
+
+tr:first-child th {
+    border: solid orange 1px; 
+}
